@@ -1,5 +1,6 @@
 # Clear memory
 rm(list = ls())
+graphics.off()
 
  #Set System from German to English
 Sys.setlocale('LC_ALL','C') 
