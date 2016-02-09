@@ -1,5 +1,6 @@
 # Clear memory
 rm(list = ls())
+graphics.off()
 # Set working directory
 #setwd("C:...")
 
