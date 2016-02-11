@@ -6,12 +6,12 @@ Energy Economics 54, 190-203, DOI:10.1016/j.eneco.2015.11.018.
 (http://www.sciencedirect.com/science/article/pii/S0140988315003400)
 
 # Quantlets
-VolLinkagesPricePlot
-VolLinkagesStat
-VolLinkagesVecmRes
-VolLinkagesCointVECM
-VolLinkagesDCC
-VolLinkagesSigma
+VolLinkagesPricePlot (https://github.com/QuantLet/VolLinkages/tree/master/VolLinkagesPricePlot)
+VolLinkagesStat (https://github.com/QuantLet/VolLinkages/tree/master/VolLinkagesStat)
+VolLinkagesVecmRes (https://github.com/QuantLet/VolLinkages/tree/master/VolLinkagesVecmRes)
+VolLinkagesCointVECM (https://github.com/QuantLet/VolLinkages/tree/master/VolLinkagesCointVecm)
+VolLinkagesDCC (https://github.com/QuantLet/VolLinkages/tree/master/VolLinkagesDCC)
+VolLinkagesSigma (https://github.com/QuantLet/VolLinkages/tree/master/VolLinkagesSigma)
 
 #Abstract
 We investigate price and volatility risk originating in linkages between energy and agricultural 
