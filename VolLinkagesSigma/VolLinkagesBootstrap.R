@@ -24,6 +24,7 @@ sigma.est = function(data = resid, d, h = hopt) {
     return(corr.e)
 }
 
+hopt = 1.0 # only an example, but indispensable; can be other values if wanted
 bootstrap = boot(resid, sigma.est, R = 150)
 
 quantiles       = apply(bootstrap$t, 2, quantile, probs = c(0.1, 0.9), na.rm = T)
