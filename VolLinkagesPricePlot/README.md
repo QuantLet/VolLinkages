@@ -5,8 +5,6 @@
 </div>
 
 ```
-﻿Name of QuantLet: VolLinkagesPricePlot
-
 Published in: Volatility Linkages between Energy and Agricultural Commodity Prices
 
 Description: Shows a plot of the raw data and deseasonalized log prices of crude oil, biodiesel and rapeseed
