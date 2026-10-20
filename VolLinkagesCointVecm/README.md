@@ -5,11 +5,9 @@
 </div>
 
 ```
-﻿Name of QuantLet: VolLinkagesCointVecm
-
 Published in: Volatility Linkages between Energy and Agricultural Commodity Prices
 
-Description: Estimates the cointegration relationship between crude oil, biodiesel and
+Description: Estimates the cointegration relationship between crude oil, biodiesel and rapeseed using a feasible generalized least square (FGLS) estimator and estimates a vector error correction model (VECM) of the three price series.
 
 Keywords: cointegration, fgls, vecm, equilibrium, least-squares, price, time-series, linkage
 
