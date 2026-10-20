@@ -5,8 +5,6 @@
 </div>
 
 ```
-﻿Name of QuantLet: VolLinkagesVecmRes
-
 Published in: Volatility Linkages between Energy and Agricultural Commodity Prices
 
 Description: Estimates a VECM of the prices using a FGLS estimator and plots the residuals
