@@ -5,11 +5,9 @@
 </div>
 
 ```
-﻿Name of QuantLet: VolLinkagesSigma
-
 Published in: Volatility Linkages between Energy and Agricultural Commodity Prices
 
-Description: Computes and plots nonparametric estimates of the unconditional variances and
+Description: Computes and plots nonparametric estimates of the unconditional variances and correlations of crude oil, biodiesel and rapeseed using kernel methods. The bandwidth is determined using a likelihood cross-validation criterion. Furthermore, pointwise confidence intervals are computed based on 200 bootstrap experiments.
 
 Keywords: volatility, correlation, nonparametric, optimal bandwidth, cross-validation, bootstrap
 
