@@ -5,8 +5,6 @@
 </div>
 
 ```
-﻿Name of QuantLet: VolLinkagesStat
-
 Published in: Volatility Linkages between Energy and Agricultural Commodity Prices
 
 Description: Computes summary statistics, normality tests and tests for autocorrelation and GARCH effects of the price data
