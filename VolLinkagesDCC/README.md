@@ -5,11 +5,9 @@
 </div>
 
 ```
-﻿Name of QuantLet: VolLinkagesDCC
-
 Published in: Volatility Linkages between Energy and Agricultural Commodity Prices
 
-Description: Computes and plots estimates of the conditional variances and correlations
+Description: Computes and plots estimates of the conditional variances and correlations of crude oil, biodiesel and rapeseed. Estimates are obtained using a dynamic conditional correlation (DCC) model, where the conditional variances follow an EGARCH(1,1) process.
 
 Keywords: volatility, correlation, garch, dcc, dynamic, time varying
 
